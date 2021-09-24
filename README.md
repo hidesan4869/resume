@@ -178,8 +178,7 @@ Webアプリケーションエンジニアとして、受託案件の開発に�
   - TypeScript / React / Next.jsでのフロントエンド開発に従事
 
 #### プログラミングスクールのメンター
-  - 「やんばるエキスパート」のメンターとして受講生のPHP / Laravel学習をサポート
-  - [https://www.yanbaru-code.com/php](https://www.yanbaru-code.com/php)
+  - プログラミングスクールのメンターとして受講生のPHP / Laravel学習をサポート
 
 ### 勉強会の企画・運営
 
