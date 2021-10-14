@@ -63,12 +63,14 @@
 
 ## やったことはないが興味があるもの
 
-- PjM、PdM（PjMは経験があるが小規模PJだったのでもっとガッツリ）
+- PdM、PjM
 - SPA、APIともにTypeScript（例：Next.js+Express.js）でのプロダクト開発
 - テスト駆動開発
 - Flutterでのスマホアプリ開発
+- UI/UXデザイン
+- プロダクトデザイン
+- 組織・体制作り
 - 機械学習等のAI分野の開発（理系なので知識を活かせそう）
-- マーケティング
 - 社内メンター
 - エンジニア採用
 
@@ -181,12 +183,12 @@ Webアプリケーションエンジニアとして、受託案件の開発に�
   - TypeScript / React / Next.jsでのフロントエンド開発に従事
 
 #### プログラミングスクールのメンター
-  - プログラミングスクールのメンターとして受講生のPHP / Laravel学習をサポート
-  - [https://www.yanbaru-code.com/php](https://www.yanbaru-code.com/php)
+  - 2020年9月から
+  - プログラミングスクールのメンターとして受講生のPHP/Laravel学習をサポート
 
 ### 勉強会の企画・運営
 
 #### 兵庫県神戸市でエンジニア向け勉強会運営
-  - 「つながる勉強会」を2021年1月から運営中（開催回数 9 回、 メンバー 102 人）
+  - 2021年1月から「つながる勉強会」を運営中（開催回数 9 回、 メンバー 102 人）
   - [https://tsunagaru-kobe.connpass.com/](https://tsunagaru-kobe.connpass.com/)
   - [Kobe x Engineer’s Lab (神戸エンジニアラボ)様](https://twitter.com/kobe_engr_lab)の[HP](https://kobe-engr-lab.studio.site/)にも本勉強会を掲載いただいています。
