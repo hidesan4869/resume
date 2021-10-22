@@ -12,6 +12,7 @@
 |Twitter|[@shimotaroo](https://twitter.com/shimotaroo)|
 |Qiita|[shimotaroo](https://qiita.com/shimotaroo)|
 |Zenn|[shimotaroo](https://zenn.dev/shimotaroo)|
+|slideshare|[slideshare](https://www.slideshare.net/YutarouShimoda)|
 
 ## スキル
 ### 言語
