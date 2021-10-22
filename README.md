@@ -5,9 +5,10 @@
 |key|value|
 |---|-----|
 |氏名| 下田 祐太朗（Yutoro Shimoda）|
-|居住地|兵庫県神戸市|
+|出身|福岡県|
+|居住地|兵庫県|
 |最終学歴|九州工業大学大学院 機械工学専攻|
-|Blog|[yutaro blog](https://yutaro-blog.net/)|
+|blog|[yutaro blog](https://yutaro-blog.net/)|
 |Twitter|[@shimotaroo](https://twitter.com/shimotaroo)|
 |Qiita|[shimotaroo](https://qiita.com/shimotaroo)|
 |Zenn|[shimotaroo](https://zenn.dev/shimotaroo)|
@@ -21,8 +22,7 @@
 - 日本語
   - ネイティブ
 - 英語
-  - 得意ではないです...
-  - TOEIC: 最高530点
+  - 得意ではないです...（TOEIC: 最高530点）
 
 ### フレームワーク
 
@@ -63,14 +63,13 @@
 
 ## やったことはないが興味があるもの
 
-- PdM、PjM
-- SPA、APIともにTypeScript（例：Next.js+Express.js）でのプロダクト開発
+- プロダクトマネージャー・プロジェクトマネージャー
 - テスト駆動開発
-- Flutterでのスマホアプリ開発
+- ドメイン駆動開発
 - UI/UXデザイン
+- スマホアプリ開発
 - プロダクトデザイン
-- 組織・体制作り
-- 機械学習等のAI分野の開発（理系なので知識を活かせそう）
+- 組織作り・社内制度策定
 - 社内メンター
 - エンジニア採用
 
@@ -111,7 +110,8 @@ Webアプリケーションエンジニアとして、中小企業向け経営�
 #### その他
 
 - 社内勉強会の企画・提案・立ち上げ
-  - 2021/10始動
+  - 2021/10〜
+  - 登壇1：[モダンなJavaScriptを知ろう](https://www.slideshare.net/YutarouShimoda/javascript-250502234)
 - チーム内勉強会の企画
 - オウンドメディア立ち上げサポート
 
@@ -179,11 +179,11 @@ Webアプリケーションエンジニアとして、受託案件の開発に�
 ### 副業
 
 #### Sassスタートアップでの開発
-  - 2021年9月から業務委託でジョイン
+  - 2021年9月〜（業務委託でジョイン）
   - TypeScript / React / Next.jsでのフロントエンド開発に従事
 
 #### プログラミングスクールのメンター
-  - 2020年9月から
+  - 2020年9月〜
   - プログラミングスクールのメンターとして受講生のPHP/Laravel学習をサポート
 
 ### 勉強会の企画・運営
