@@ -12,7 +12,7 @@
 |Twitter|[@shimotaroo](https://twitter.com/shimotaroo)|
 |Qiita|[shimotaroo](https://qiita.com/shimotaroo)|
 |Zenn|[shimotaroo](https://zenn.dev/shimotaroo)|
-|slideshare|[slideshare](https://www.slideshare.net/YutarouShimoda)|
+|Speaker Deck|[shimotaroo](https://speakerdeck.com/shimotaroo)|
 
 ## スキル
 ### 言語
@@ -112,7 +112,7 @@ Webアプリケーションエンジニアとして、中小企業向け経営�
 
 - 社内勉強会の企画・提案・立ち上げ
   - 2021/10〜
-  - 登壇1：[モダンなJavaScriptを知ろう](https://www.slideshare.net/YutarouShimoda/javascript-250502234)
+  - 登壇1：[モダンなJavaScriptを知ろう](https://speakerdeck.com/shimotaroo/modern-javascript-since-es2015)
 - チーム内勉強会の企画
 - オウンドメディア立ち上げサポート
 
@@ -180,16 +180,24 @@ Webアプリケーションエンジニアとして、受託案件の開発に�
 ### 副業
 
 #### Sassスタートアップでの開発
-  - 2021年9月〜（業務委託でジョイン）
-  - TypeScript / React / Next.jsでのフロントエンド開発に従事
+- 2021年9月〜（業務委託でジョイン）
+- TypeScript / React / Next.jsでのフロントエンド開発に従事
 
 #### プログラミングスクールのメンター
-  - 2020年9月〜
-  - プログラミングスクールのメンターとして受講生のPHP/Laravel学習をサポート
+- 2020年9月〜
+- プログラミングスクールのメンターとして受講生のPHP/Laravel学習をサポート
 
 ### 勉強会の企画・運営
 
 #### 兵庫県神戸市でエンジニア向け勉強会運営
-  - 2021年1月から「つながる勉強会」を運営中（開催回数 9 回、 メンバー 102 人）
-  - [https://tsunagaru-kobe.connpass.com/](https://tsunagaru-kobe.connpass.com/)
-  - [Kobe x Engineer’s Lab (神戸エンジニアラボ)様](https://twitter.com/kobe_engr_lab)の[HP](https://kobe-engr-lab.studio.site/)にも本勉強会を掲載いただいています。
+- 2021年1月から「[つながる勉強会](https://tsunagaru-kobe.connpass.com/)」を運営中（開催回数 9 回、 メンバー 102 人）
+- [Kobe x Engineer’s Lab (神戸エンジニアラボ)様](https://twitter.com/kobe_engr_lab)の[HP](https://kobe-engr-lab.studio.site/)にも本勉強会を掲載いただいています。
+
+### 登壇実績
+
+#### つながる勉強会
+- [セッションとCookieをおさらい](https://speakerdeck.com/shimotaroo/session-and-cookie)
+- [エンジニアが知っておくとちょっとだけ得する言葉](https://speakerdeck.com/shimotaroo/engineer-language-for-beginner)
+
+#### 社内勉強会（エフアンドエムネット株式会社）
+- [モダンなJavaScriptを知ろう](https://speakerdeck.com/shimotaroo/modern-javascript-since-es2015)
