@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|氏名| Yutoro Shimoda|
+|氏名| Yutaro Shimoda|
 |出身|福岡県|
 |居住地|兵庫県|
 |最終学歴|九州工業大学大学院 機械工学専攻|
