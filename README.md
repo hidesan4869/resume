@@ -25,7 +25,7 @@
 #### その他
 
 - DBMS：MySQL/Oracle
-- インフラ関連：Docker/AWS（EC2/S3/RDS/ELB/Route53）
+- インフラ関連：Docker/AWS(EC2/S3/RDS/ELB/Route53）
 - ソース管理：Git/GitHub/GitLab/SVN
 - UI：Tailwind CSS
 
