@@ -60,6 +60,7 @@
 - 新しいことに挑戦すること・学ぶことが好き
 - 人と話すのが好き
 - 論理的に物事を考えられる
+- 自発的に行動、報連相ができる
 
 ## やったことはないが興味があるもの
 
@@ -80,14 +81,18 @@ Webアプリケーションエンジニアとして、中小企業向け経営�
 #### 補助金申請補助サービスの開発（リプレイス）
 
 - 設計（DB設計、API設計、画面設計、コーディングルール策定、アーキテクチャ設計）
-- PHP・Laravelのバージョンアップ
+- PHP/Laravelのバージョンアップ
 - アプリのアーキテクチャ変更（マルチページアプリケーションからSPA+API）
 - 技術選定
 - 新技術の導入（TypeScript/React/Next.js/Tailwind CSS/Docker）
 - Dockerでの環境構築
 - TypeScript/React/Next.jsでのSPA開発
+  - Atomic Designを参考にしたコンポーネント設計
+  - React-Hook-Formを使用した入力フォームのフロントエンドバリデーション 
+  - カスタムフックを使用してロジックをコンポーネントを分裂
 - PHP/Laravel8でのAPI開発
-- PHPUnitでのテストコード実装（Feature・Unit）
+  - サービス層へのビジネスロジック集約
+  - PHPUnitでのテストコード実装（Feature・Unit）
 - タスク管理、プロジェクト管理、スケジュール管理
 - コードレビュー
 
@@ -194,8 +199,8 @@ Webアプリケーションエンジニアとして、受託案件の開発に�
 ### 登壇実績
 
 #### つながる勉強会
-- [セッションとCookieをおさらい](https://speakerdeck.com/shimotaroo/session-and-cookie)
-- [エンジニアが知っておくとちょっとだけ得する言葉](https://speakerdeck.com/shimotaroo/engineer-language-for-beginner)
+- 2021/8/28 [セッションとCookieをおさらい](https://speakerdeck.com/shimotaroo/session-and-cookie)
+- 2021/10/31 [エンジニアが知っておくとちょっとだけ得する言葉](https://speakerdeck.com/shimotaroo/engineer-language-for-beginner)
 
 #### 社内勉強会（エフアンドエムネット株式会社）
-- [モダンなJavaScriptを知ろう](https://speakerdeck.com/shimotaroo/modern-javascript-since-es2015)
+- 2021/10/22 [モダンなJavaScriptを知ろう](https://speakerdeck.com/shimotaroo/modern-javascript-since-es2015)
