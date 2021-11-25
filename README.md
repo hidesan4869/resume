@@ -52,10 +52,10 @@
 
 - PHP/Laravelでのアプリ開発、API開発ができる
 - PHPUnitでのテストコードの実装ができる
-- TypeScript/React/Next.jsでSPA開発ができる
+- TypeScript/React/Next.jsでのフロントエンド開発ができる
 - 新規開発、運用・保守どちらの経験もある
 - キャッチアップが早い
-- IT業界、非IT業界どちらでもマネジメント経験があり、またマネジメント業務に興味がある
+- IT業界、非IT業界どちらでもマネジメント経験があり、IT業界でのマネジメント業務に興味がある
 - 製造業・重工業のドメイン知識がある
 - 新しいことに挑戦すること・学ぶことが好き
 - 人と話すのが好き
@@ -82,11 +82,11 @@ Webアプリケーションエンジニアとして、中小企業向け経営�
 
 - 設計（DB設計、API設計、画面設計、コーディングルール策定、アーキテクチャ設計）
 - PHP/Laravelのバージョンアップ
-- アプリのアーキテクチャ変更（マルチページアプリケーションからSPA+API）
+- アプリのアーキテクチャ変更（LaravelのマルチページアプリケーションからNext.js+Laravel API）
 - 技術選定
 - 新技術の導入（TypeScript/React/Next.js/Tailwind CSS/Docker）
 - Dockerでの環境構築
-- TypeScript/React/Next.jsでのSPA開発
+- TypeScript/React/Next.jsでのフロントエンド開発
   - Atomic Designを参考にしたコンポーネント設計
   - React-Hook-Formを使用した入力フォームのフロントエンドバリデーション 
   - カスタムフックを使用してロジックをコンポーネントを分裂
@@ -99,7 +99,7 @@ Webアプリケーションエンジニアとして、中小企業向け経営�
 #### 中小企業向け経営サポートサービスの開発(改修)
 
 - 設計（DB設計、API設計、シーケンス図作成）
-- TypeScript/Vue.js/Nuxt.jsでのSPA開発
+- TypeScript/Vue.js/Nuxt.jsでのフロントエンド開発
 - PHP/Laravel6でのAPI開発
 - 外部サービスとの連携機能（シングルサインオン）開発
 - テスト（手動テスト）
@@ -201,6 +201,10 @@ Webアプリケーションエンジニアとして、受託案件の開発に�
 #### つながる勉強会
 - 2021/8/28 [セッションとCookieをおさらい](https://speakerdeck.com/shimotaroo/session-and-cookie)
 - 2021/10/31 [エンジニアが知っておくとちょっとだけ得する言葉](https://speakerdeck.com/shimotaroo/engineer-language-for-beginner)
+
+## 社外イベント
+- 2021/11/24 [【再増枠】ITエンジニアの転職経験談 LT会](https://connpass.com/event/229735/)
+  - LT登壇 [実務経験1年未満の転職談〜転職はアリだぞ〜](https://speakerdeck.com/shimotaroo/career-change-stories)
 
 #### 社内勉強会（エフアンドエムネット株式会社）
 - 2021/10/22 [モダンなJavaScriptを知ろう](https://speakerdeck.com/shimotaroo/modern-javascript-since-es2015)
