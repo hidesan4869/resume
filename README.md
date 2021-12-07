@@ -199,7 +199,7 @@ Webアプリケーションエンジニアとして、受託案件の開発に�
 ### 登壇実績
 
 #### つながる勉強会
-- 2021/8/28 [セッションとCookieをおさらい](https://speakerdeck.com/shimotaroo/session-and-cookie)
+- 2021/08/28 [セッションとCookieをおさらい](https://speakerdeck.com/shimotaroo/session-and-cookie)
 - 2021/10/31 [エンジニアが知っておくとちょっとだけ得する言葉](https://speakerdeck.com/shimotaroo/engineer-language-for-beginner)
 - 2021/11/27 [SPA/CSR/SSR/SSGまとめ](https://speakerdeck.com/shimotaroo/spa-ssr-ssg)
 
