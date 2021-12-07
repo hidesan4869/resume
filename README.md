@@ -9,10 +9,10 @@
 |居住地|兵庫県|
 |最終学歴|九州工業大学大学院 機械工学専攻|
 |blog|[yutaro blog](https://yutaro-blog.net/)|
-|Twitter|[@shimotaroo](https://twitter.com/shimotaroo)|
-|Qiita|[shimotaroo](https://qiita.com/shimotaroo)|
-|Zenn|[shimotaroo](https://zenn.dev/shimotaroo)|
-|Speaker Deck|[shimotaroo](https://speakerdeck.com/shimotaroo)|
+|Twitter|https://twitter.com/shimotaroo|
+|Qiita|https://qiita.com/shimotaroo|
+|Zenn|https://zenn.dev/shimotaroo|
+|Speaker Deck|https://speakerdeck.com/shimotaroo|
 
 ## スキル
 ### 開発
@@ -201,6 +201,7 @@ Webアプリケーションエンジニアとして、受託案件の開発に�
 #### つながる勉強会
 - 2021/8/28 [セッションとCookieをおさらい](https://speakerdeck.com/shimotaroo/session-and-cookie)
 - 2021/10/31 [エンジニアが知っておくとちょっとだけ得する言葉](https://speakerdeck.com/shimotaroo/engineer-language-for-beginner)
+- 2021/11/27 [SPA/CSR/SSR/SSGまとめ](https://speakerdeck.com/shimotaroo/spa-ssr-ssg)
 
 #### 社外イベント
 - 2021/11/24 [ITエンジニアの転職経験談 LT会](https://connpass.com/event/229735/)
