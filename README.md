@@ -122,6 +122,9 @@ Webアプリケーションエンジニアとして、中小企業向け経営�
 - 社内勉強会の企画・提案・立ち上げ
   - 2021/10〜
   - 登壇1：[モダンなJavaScriptを知ろう](https://speakerdeck.com/shimotaroo/modern-javascript-since-es2015)
+  - 登壇2：
+    - 登壇スライド：[【ハンズオン】PHPUnitでのテストコード実装超入門](https://speakerdeck.com/shimotaroo/php-hands-on)
+    - GitHubリポジトリ：https://github.com/shimotaroo/hands-on-phpunit  
 - チーム内勉強会の企画
 - オウンドメディア立ち上げサポート
 - 社内メンター（実務未経験の中途入社の方を担当）
@@ -216,3 +219,6 @@ Webアプリケーションエンジニアとして、受託案件の開発に�
 
 #### 社内勉強会（エフアンドエムネット株式会社）
 - 2021/10/22 [モダンなJavaScriptを知ろう](https://speakerdeck.com/shimotaroo/modern-javascript-since-es2015)
+- 2021/12/24
+  - 登壇スライド：[【ハンズオン】PHPUnitでのテストコード実装超入門](https://speakerdeck.com/shimotaroo/php-hands-on)
+  - GitHubリポジトリ：https://github.com/shimotaroo/hands-on-phpunit  
